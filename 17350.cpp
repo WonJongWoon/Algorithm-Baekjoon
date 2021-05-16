@@ -7,6 +7,8 @@
 
 using namespace std;
 
+#define all(x) x.begin(), x.end()
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
@@ -16,7 +18,7 @@ int main() {
 
     while(N--) {
         string input; cin >> input;
-        transform(input.begin(), input.end(), input.begin(), ::tolower);
+        transform(all(input), input.begin(), ::tolower);
         if (is_exist = (input == "anj")) break;
     }
 

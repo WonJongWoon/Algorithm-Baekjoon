@@ -7,6 +7,8 @@
 
 using namespace std;
 
+#define all(x) x.begin(), x.end()
+
 struct Article {
     int id;
     int rank;
@@ -38,7 +40,7 @@ int main() {
         }
     }
 
-    sort(articles.begin(), articles.end());
+    sort(all(articles));
 
     cin >> Q;
 
