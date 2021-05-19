@@ -17,4 +17,8 @@ Algorithm-Lession
 ## 2021-05-17
 ### 1주차 문제 풀기
 - [수 찾기](https://www.acmicpc.net/problem/1920) - [소스](./1920.cpp)
-- [수 고르기](https://www.acmicpc.net/problem/2230) - [소스](./2230.cpp)
+
+## 2021-05-18
+### 1주차 문제 풀기
+- [랜선 자르기](https://www.acmicpc.net/problem/1654) - [소스](./1654.cpp)
+- [나무 자르기](https://www.acmicpc.net/problem/2805) - [소스](./2805.cpp)
