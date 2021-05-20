@@ -18,7 +18,14 @@ Algorithm-Lession
 ### 1주차 문제 풀기
 - [수 찾기](https://www.acmicpc.net/problem/1920) - [소스](./1920.cpp)
 
-## 2021-05-18
+## 2021-05-19
 ### 1주차 문제 풀기
 - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [소스](./1654.cpp)
 - [나무 자르기](https://www.acmicpc.net/problem/2805) - [소스](./2805.cpp)
+
+### 0주차 못 푼 문제 풀기
+- [Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500) - [소스](./20500.cpp)
+
+## 2021-05-20
+### 1주차 문제 풀기
+- [K번째 수](https://www.acmicpc.net/problem/1300) - [소스](./1300.cpp)
