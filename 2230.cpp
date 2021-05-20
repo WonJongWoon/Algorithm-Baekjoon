@@ -5,14 +5,16 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
-
 #define SIZE (100000+2)
-int arr[SIZE];
-int N, M;
 
-bool possible(int a, int b) {
-    return b - a >= M;
+using namespace std;
+using ll = long long;
+
+int N, M;
+int arr[SIZE];
+
+bool is_possible(int l, int m) {
+    return arr[m] - arr[l] >= M;
 }
 
 int main(void) {
@@ -20,19 +22,19 @@ int main(void) {
     cin.tie(nullptr);
 
     cin >> N >> M;
+    for(int i = 0; i < N; i++) cin >> arr[i];
+    sort(arr, arr + N);
+    int min_diff = arr[N-1] - arr[0];
 
-    for (int i = 1; i <= N; i++) cin >> arr[i];
-    sort(arr + 1, arr + N + 1);
+    for(int i = 0; i < N; i++) {
+        int base = arr[i];
+        int* p1 = lower_bound(arr, arr + N, base + M);
+        //int* p2 = lower_bound(arr, arr + N, base - M);
 
-    int l = 0, r = N;
-
-    while(l + 1 < r) {
-        int m = (l + r) / 2;
-        if (possible(arr[l], arr[m])) r = m;
-        else if(possible(arr[m], arr[r])) l = m;
-        else break;
+        if (p1 != arr + N && (*p1 - base) >= M) min_diff = min(min_diff, *p1 - base);
+        // if ((base - *p2) >= M) min_diff = min(min_diff, base - *p2);
     }
 
-    cout << (arr[r] - arr[l]) << "\n";
+    cout << min_diff << "\n";
     return 0;
 }

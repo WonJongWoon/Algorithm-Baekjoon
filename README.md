@@ -29,3 +29,7 @@ Algorithm-Lession
 ## 2021-05-20
 ### 1주차 문제 풀기
 - [K번째 수](https://www.acmicpc.net/problem/1300) - [소스](./1300.cpp)
+
+## 2021-05-21
+### 1주차 문제 풀기
+- [수 고르기](https://www.acmicpc.net/problem/2230) - [소스](./2230.cpp)
