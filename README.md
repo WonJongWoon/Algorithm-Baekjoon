@@ -33,3 +33,8 @@ Algorithm-Lession
 ## 2021-05-21
 ### 1주차 문제 풀기
 - [수 고르기](https://www.acmicpc.net/problem/2230) - [소스](./2230.cpp)
+
+## 2021-05-22
+### 1주차 문제 풀기
+- [DSHS Bank](https://www.acmicpc.net/problem/16210)
+  - [소스1](./16210.cpp) - 부분점수
