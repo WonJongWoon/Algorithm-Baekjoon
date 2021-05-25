@@ -39,6 +39,9 @@ Algorithm-Lesson
 - [DSHS Bank](https://www.acmicpc.net/problem/16210)
   - [소스1](week-1/16210.cpp) - 부분점수
 
-## 2021-05-22
+## 2021-05-25
 ### 2주차 문제 풀기
+- [최소힙](https://www.acmicpc.net/problem/1927) - [소스](./week-2/1927.cpp)
 - [스택](https://www.acmicpc.net/problem/10828) - [소스](./week-2/10828.cpp)
+- [큐](https://www.acmicpc.net/problem/10845) - [소스](./week-2/10845.cpp)
+- [최대 힙](https://www.acmicpc.net/problem/11279) - [소스](./week-2/11279.cpp)
