@@ -45,3 +45,10 @@ Algorithm-Lesson
 - [스택](https://www.acmicpc.net/problem/10828) - [소스](./week-2/10828.cpp)
 - [큐](https://www.acmicpc.net/problem/10845) - [소스](./week-2/10845.cpp)
 - [최대 힙](https://www.acmicpc.net/problem/11279) - [소스](./week-2/11279.cpp)
+
+## 2021-05-26
+### 2주차 문제 풀기
+- [카드 정렬하기](https://www.acmicpc.net/problem/1715) - [소스](./week-2/1715.cpp)
+- [집합의 표현](https://www.acmicpc.net/problem/1717) - [소스](./week-2/1717.cpp)
+- [스택 수열](https://www.acmicpc.net/problem/1874) - [소스](./week-2/1874.cpp)
+- [절댓값 힙](https://www.acmicpc.net/problem/11286) - [소스](./week-2/11286.cpp)
