@@ -52,3 +52,9 @@ Algorithm-Lesson
 - [집합의 표현](https://www.acmicpc.net/problem/1717) - [소스](./week-2/1717.cpp)
 - [스택 수열](https://www.acmicpc.net/problem/1874) - [소스](./week-2/1874.cpp)
 - [절댓값 힙](https://www.acmicpc.net/problem/11286) - [소스](./week-2/11286.cpp)
+  
+## 2021-05-27
+### 2주차 문제 풀기
+- [여행 가자](https://www.acmicpc.net/problem/1976) - [소스](./week-2/1976.cpp)
+- [섞기 수열](https://www.acmicpc.net/problem/2487) - [소스](./week-2/2487.cpp)
+- [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) - [소스](./week-2/17352.cpp)
