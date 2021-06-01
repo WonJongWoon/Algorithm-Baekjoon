@@ -58,3 +58,11 @@ Algorithm-Lesson
 - [여행 가자](https://www.acmicpc.net/problem/1976) - [소스](./week-2/1976.cpp)
 - [섞기 수열](https://www.acmicpc.net/problem/2487) - [소스](./week-2/2487.cpp)
 - [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) - [소스](./week-2/17352.cpp)
+
+## 2021-06-01
+### 3주차 문제 풀기
+- [수들의 합 2](https://www.acmicpc.net/problem/2003) - [소스](./week-3/2003.cpp)
+- [연속부분최대곱](https://www.acmicpc.net/problem/2670) - [소스](./week-3/2670.cpp)
+- [구간 합 구하기](https://www.acmicpc.net/problem/11659) - [소스](./week-3/11659.cpp)
+- [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) - [소스](./week-3/11660.cpp)
+- [배열 합치기](https://www.acmicpc.net/problem/11728) - [소스](./week-3/11728.cpp)
