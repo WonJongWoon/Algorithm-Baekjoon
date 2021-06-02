@@ -66,3 +66,11 @@ Algorithm-Lesson
 - [구간 합 구하기](https://www.acmicpc.net/problem/11659) - [소스](./week-3/11659.cpp)
 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) - [소스](./week-3/11660.cpp)
 - [배열 합치기](https://www.acmicpc.net/problem/11728) - [소스](./week-3/11728.cpp)
+
+## 2021-06-02
+### 3주차 문제 풀기
+- [두 용액](https://www.acmicpc.net/problem/2470) - [소스](./week-3/2470.cpp)
+- [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) - [소스](./week-3/9095.cpp)
+- [걷다보니 신천역 삼 (Large)](https://www.acmicpc.net/problem/14651) - [소스](./week-3/14651.cpp)
+- [직사각형과 쿼리](https://www.acmicpc.net/problem/14846) - [소스](./week-3/14846.cpp)
+- [회문](https://www.acmicpc.net/problem/17609) - [소스](./week-3/17609.cpp)
