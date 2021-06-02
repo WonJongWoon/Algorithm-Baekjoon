@@ -24,7 +24,7 @@ int main() {
     cin >> N;
 
     for(int i = 2; i < N; i++) {
-        int v = mod_value(mod_value(dp[i-1][0], dp[i-1][1], MOD), dp[i-1][2], MOD);
+        long long v = mod_value(mod_value(dp[i-1][0], dp[i-1][1], MOD), dp[i-1][2], MOD);
         dp[i][0] = dp[i][1] = dp[i][2] = v;
     }
 
