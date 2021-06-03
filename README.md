@@ -74,3 +74,7 @@ Algorithm-Lesson
 - [걷다보니 신천역 삼 (Large)](https://www.acmicpc.net/problem/14651) - [소스](./week-3/14651.cpp)
 - [직사각형과 쿼리](https://www.acmicpc.net/problem/14846) - [소스](./week-3/14846.cpp)
 - [회문](https://www.acmicpc.net/problem/17609) - [소스](./week-3/17609.cpp)
+
+## 2021-06-03
+### 3주차 문제 풀기
+- [다이나믹이 뭐예요?](https://www.acmicpc.net/problem/14494) - [소스](./week-3/14494.cpp)
