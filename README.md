@@ -78,3 +78,8 @@ Algorithm-Lesson
 ## 2021-06-03
 ### 3주차 문제 풀기
 - [다이나믹이 뭐예요?](https://www.acmicpc.net/problem/14494) - [소스](./week-3/14494.cpp)
+
+## 2021-06-04
+### 3주차 문제 풀기
+- [점프](https://www.acmicpc.net/problem/1890) - [소스](./week-3/1890.cpp)
+- [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) - [소스](./week-3/7453.cpp)
