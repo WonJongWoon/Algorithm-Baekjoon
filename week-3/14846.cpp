@@ -13,31 +13,28 @@ int N, Q;
 int arr[SIZE][SIZE];
 int dp[SIZE][SIZE][10+1];
 
-void calc_minus(int sx, int sy, int ex, int ey) {
-    if (sx < 0 || sx >= N || sy < 0 || sy >= N) return;
-    for(int k = 1; k <= 10; k++) dp[ex][ey][k] -= dp[sx][sy][k];
+vector<int> get_freq(int sx, int sy) {
+    vector<int> freq(11, 0);
+    if (sx < 0 || sx >= N || sy < 0 || sy >= N) return freq;
+    freq.assign(dp[sx][sy], dp[sx][sy] + 11);
+    return freq;
 }
 
-void calc_plus(int sx, int sy, int ex, int ey) {
-    if (sx < 0 || sx >= N || sy < 0 || sy >= N) return;
-    for(int k = 1; k <= 10; k++) dp[ex][ey][k] += dp[sx][sy][k];
-}
-
-int count(int x, int y) {
+int count(vector<int> freq) {
     int ans = 0;
-    for(int k = 1; k <= 10; k++) ans += (dp[x][y][k] >= 1);
-    return ans;
+    for(int k = 1; k <= 10; k++) ans += (freq[k] >= 1);
+    return accumulate()
 }
 
 int calc(int sx, int sy, int ex, int ey) {
-    calc_minus(sx - 1, ey, ex, ey);
-    calc_minus(ex, sy - 1, ex, ey);
-    calc_plus(sx - 1, sy - 1, ex, ey);
-    int ret = count(ex, ey);
-    calc_minus(sx - 1, sy - 1, ex, ey);
-    calc_plus(sx - 1, ey, ex, ey);
-    calc_plus(ex, sy - 1, ex, ey);
-    return ret;
+    vector<int> origin = get_freq(ex, ey);
+    vector<int> up = get_freq(sx-1, ey);
+    vector<int> left = get_freq(ex, sy - 1);
+    vector<int> intersection = get_freq(sx-1, sy-1);
+
+    for(int k = 1; k <= 10; k++)
+        origin[k] += -(up[k] + left[k]) + intersection[k];
+    return count(origin);
 }
 
 int main() {

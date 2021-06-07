@@ -70,7 +70,9 @@ Algorithm-Lesson
 ## 2021-06-02
 ### 3주차 문제 풀기
 - [두 용액](https://www.acmicpc.net/problem/2470) - [소스](./week-3/2470.cpp)
-- [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) - [소스](./week-3/9095.cpp)
+- [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) 
+  - [소스1](week-3/9095.cpp)
+  - [소스2](week-3/9095-2.cpp)
 - [걷다보니 신천역 삼 (Large)](https://www.acmicpc.net/problem/14651) - [소스](./week-3/14651.cpp)
 - [직사각형과 쿼리](https://www.acmicpc.net/problem/14846) - [소스](./week-3/14846.cpp)
 - [회문](https://www.acmicpc.net/problem/17609) - [소스](./week-3/17609.cpp)
@@ -83,3 +85,14 @@ Algorithm-Lesson
 ### 3주차 문제 풀기
 - [점프](https://www.acmicpc.net/problem/1890) - [소스](./week-3/1890.cpp)
 - [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) - [소스](./week-3/7453.cpp)
+
+## 2021-06-07
+### 3주차 문제 풀기
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) - [소스](./week-3/11053.cpp)
+- [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) - [소스](./week-3/11055.cpp)
+- [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) - [소스](./week-3/15990.cpp)
+
+### 4주차 문제 풀기
+- [유기농 배추](https://www.acmicpc.net/problem/1012) - [소스](./week-4/1012.cpp)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260) - [소스](./week-4/1260.cpp)
+- [그대, 그머가 되어](https://www.acmicpc.net/problem/14496) - [소스](./week-4/14496.cpp)
