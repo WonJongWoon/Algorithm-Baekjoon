@@ -96,3 +96,7 @@ Algorithm-Lesson
 - [유기농 배추](https://www.acmicpc.net/problem/1012) - [소스](./week-4/1012.cpp)
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260) - [소스](./week-4/1260.cpp)
 - [그대, 그머가 되어](https://www.acmicpc.net/problem/14496) - [소스](./week-4/14496.cpp)
+
+## 2021-06-08
+### 4주차 문제 풀기
+- [안전 영역](https://www.acmicpc.net/problem/2468) - [소스](./week-4/2468.cpp)
