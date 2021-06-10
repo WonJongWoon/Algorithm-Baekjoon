@@ -100,3 +100,7 @@ Algorithm-Lesson
 ## 2021-06-08
 ### 4주차 문제 풀기
 - [안전 영역](https://www.acmicpc.net/problem/2468) - [소스](./week-4/2468.cpp)
+
+## 2021-06-10
+### 4주차 문제 풀기
+- [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) - [소스](./week-4/11725.cpp)
