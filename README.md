@@ -117,3 +117,12 @@ Algorithm-Lesson
 ## 2021-06-26
 ### 5주차 문제 풀기
 - [다리 만들기 2](https://www.acmicpc.net/problem/17472) - [소스](./week-5/17472.cpp)
+
+## 2021-06-27
+### 3주차 이월 문제 풀기
+- [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) - [소스](./week-3/15988.cpp)
+- [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) - [소스](./week-3/15989.cpp)
+- [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) - [소스](./week-3/15991.cpp)
+- [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) - [소스](./week-3/15992.cpp)
+- [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) - [소스](./week-3/15993.cpp)
+- [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) - [소스](./week-3/16195.cpp)
