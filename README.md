@@ -126,3 +126,6 @@ Algorithm-Lesson
 - [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) - [소스](./week-3/15992.cpp)
 - [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) - [소스](./week-3/15993.cpp)
 - [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) - [소스](./week-3/16195.cpp)
+
+### 5주차 문제 풀기
+- [레드 블루 스패닝 트리](https://www.acmicpc.net/problem/4792) - [소스](./week-5/4792.cpp)
