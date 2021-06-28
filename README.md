@@ -129,3 +129,10 @@ Algorithm-Lesson
 
 ### 5주차 문제 풀기
 - [레드 블루 스패닝 트리](https://www.acmicpc.net/problem/4792) - [소스](./week-5/4792.cpp)
+
+## 2021-06-28
+### 4주차 이월 문제 풀기
+- [중량 제한](https://www.acmicpc.net/problem/1939) - [소스](./week-4/1939.cpp)
+
+### 6주차 문제 풀기
+- [최단경로](https://www.acmicpc.net/problem/1753) - [소스](./week-6/1753.cpp)
