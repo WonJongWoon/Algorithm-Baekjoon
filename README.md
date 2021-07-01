@@ -140,3 +140,7 @@ Algorithm-Lesson
 ## 2021-06-29
 ### 5주차 이월 문제  풀기
 - [핑크 플로이드](https://www.acmicpc.net/problem/6091) - [소스](./week-5/6091.cpp)
+
+## 2021-07-01
+### 6주차 문제 풀기
+- [특정한 최단 경로](https://www.acmicpc.net/problem/1504) - [소스](./week-6/1504.cpp)
