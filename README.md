@@ -144,3 +144,7 @@ Algorithm-Lesson
 ## 2021-07-01
 ### 6주차 문제 풀기
 - [특정한 최단 경로](https://www.acmicpc.net/problem/1504) - [소스](./week-6/1504.cpp)
+
+## 2021-07-02
+### 6주차 문제 풀기
+- [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) - [소스](./week-6/11779.cpp)
