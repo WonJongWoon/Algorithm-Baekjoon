@@ -148,3 +148,9 @@ Algorithm-Lesson
 ## 2021-07-02
 ### 6주차 문제 풀기
 - [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) - [소스](./week-6/11779.cpp)
+
+## 2021-07-03
+### 6주차 문제 풀기
+- [파티](https://www.acmicpc.net/problem/1238) - [소스](./week-6/1238.cpp)
+- [운동](https://www.acmicpc.net/problem/1956) - [소스](./week-6/1956.cpp)
+- [플로이드](https://www.acmicpc.net/problem/11404) - [소스](./week-6/11404.cpp)
