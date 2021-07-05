@@ -158,3 +158,7 @@ Algorithm-Lesson
 ## 2021-07-04
 ### 6주차 이월 문제 풀기
 - [3인통화](https://www.acmicpc.net/problem/2398) - [소스](./week-6/2398.cpp)
+
+## 2021-07-05
+### 6주차 이월 문제 풀기
+- [거의 최단 경로](https://www.acmicpc.net/problem/5719) - [소스](./week-6/5719.cpp)
