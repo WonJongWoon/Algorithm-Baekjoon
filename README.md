@@ -162,3 +162,13 @@ Algorithm-Lesson
 ## 2021-07-05
 ### 6주차 이월 문제 풀기
 - [거의 최단 경로](https://www.acmicpc.net/problem/5719) - [소스](./week-6/5719.cpp)
+
+## 2021-07-08
+### 7주차 문제 풀기
+- [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) 
+  - [소스1](./week-7/11478.cpp)
+  - [소스2](./week-7/11478-2.cpp)
+- [문자열 집합](https://www.acmicpc.net/problem/14425)
+  - [소스1](./week-7/14425.cpp)
+  - [소스2](./week-7/14425-2.cpp)
+- [Hashing](https://www.acmicpc.net/problem/15829) - [소스1(./week-7/15829.cpp)
