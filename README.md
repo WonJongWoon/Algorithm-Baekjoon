@@ -171,4 +171,9 @@ Algorithm-Lesson
 - [문자열 집합](https://www.acmicpc.net/problem/14425)
   - [소스1](./week-7/14425.cpp)
   - [소스2](./week-7/14425-2.cpp)
-- [Hashing](https://www.acmicpc.net/problem/15829) - [소스1(./week-7/15829.cpp)
+- [Hashing](https://www.acmicpc.net/problem/15829) - [소스1](./week-7/15829.cpp)
+
+## 2021-07-10
+### 7주차 문제 풀기
+- [추월](https://www.acmicpc.net/problem/2002) - [소스1](./week-7/2002.cpp)
+- [구간 성분](https://www.acmicpc.net/problem/10840) - [소스1](./week-7/10840.cpp)
