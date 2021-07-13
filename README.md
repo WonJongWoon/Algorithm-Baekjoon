@@ -177,3 +177,9 @@ Algorithm-Lesson
 ### 7주차 문제 풀기
 - [추월](https://www.acmicpc.net/problem/2002) - [소스1](./week-7/2002.cpp)
 - [구간 성분](https://www.acmicpc.net/problem/10840) - [소스1](./week-7/10840.cpp)
+
+## 2021-07-10
+### 8주차 문제 풀기
+- [전화번호 목록](https://www.acmicpc.net/problem/2002) - [소스1](./week-8/5052.cpp)
+- [Huffman Encoding](https://www.acmicpc.net/problem/6800) - [소스1](./week-8/6800.cpp)
+- [문자열 집합](https://www.acmicpc.net/problem/14425) - [소스1](./week-7/14425-3.cpp)
