@@ -171,22 +171,26 @@ Algorithm-Lesson
 - [문자열 집합](https://www.acmicpc.net/problem/14425)
   - [소스1](./week-7/14425.cpp)
   - [소스2](./week-7/14425-2.cpp)
-- [Hashing](https://www.acmicpc.net/problem/15829) - [소스1](./week-7/15829.cpp)
+- [Hashing](https://www.acmicpc.net/problem/15829) - [소스](./week-7/15829.cpp)
 
 ## 2021-07-10
 ### 7주차 문제 풀기
-- [추월](https://www.acmicpc.net/problem/2002) - [소스1](./week-7/2002.cpp)
-- [구간 성분](https://www.acmicpc.net/problem/10840) - [소스1](./week-7/10840.cpp)
+- [추월](https://www.acmicpc.net/problem/2002) - [소스](./week-7/2002.cpp)
+- [구간 성분](https://www.acmicpc.net/problem/10840) - [소스](./week-7/10840.cpp)
 
 ## 2021-07-13
 ### 8주차 문제 풀기
-- [전화번호 목록](https://www.acmicpc.net/problem/2002) - [소스1](./week-8/5052.cpp)
+- [전화번호 목록](https://www.acmicpc.net/problem/2002) - [소스](./week-8/5052.cpp)
 - [Huffman Encoding](https://www.acmicpc.net/problem/6800) 
   - [소스1](./week-8/6800.cpp)
   - [소스2](./week-8/6800-2.cpp)
-- [문자열 집합](https://www.acmicpc.net/problem/14425) - [소스1](./week-7/14425-3.cpp)
+- [문자열 집합](https://www.acmicpc.net/problem/14425) - [소스](./week-7/14425-3.cpp)
 
 ## 2021-07-14
-### 6주차 문제 풀기
+### 6주차 이월 문제 풀기
 - [전화번호 목록](https://www.acmicpc.net/problem/17940) 
   - [소스1](week-6/17940.cpp)
+
+## 2021-07-15
+### 6주차 이월 문제 풀기
+- [최소 환승 경로](https://www.acmicpc.net/problem/2021) - [소스](week-6/2021.cpp)
