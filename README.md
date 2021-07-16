@@ -194,3 +194,8 @@ Algorithm-Lesson
 ## 2021-07-15
 ### 6주차 이월 문제 풀기
 - [최소 환승 경로](https://www.acmicpc.net/problem/2021) - [소스](week-6/2021.cpp)
+
+## 2021-07-16
+### 6주차 이월 문제 풀기
+- [징검다리 달리기 2](https://www.acmicpc.net/problem/1810) - [소스](week-6/1810.cpp)
+- [타임머신](https://www.acmicpc.net/problem/11657) - [소스](week-6/11657.cpp)
