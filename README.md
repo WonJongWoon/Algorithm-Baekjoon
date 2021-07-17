@@ -179,17 +179,20 @@ Algorithm-Lesson
 - [구간 성분](https://www.acmicpc.net/problem/10840) - [소스](./week-7/10840.cpp)
 
 ## 2021-07-13
+### 7주차 이월 문제 풀기
+- [문자열 집합](https://www.acmicpc.net/problem/14425) - [소스](./week-7/14425-3.cpp)
+
 ### 8주차 문제 풀기
-- [전화번호 목록](https://www.acmicpc.net/problem/2002) - [소스](./week-8/5052.cpp)
+- [전화번호 목록](https://www.acmicpc.net/problem/5052) - [소스](./week-8/5052.cpp)
 - [Huffman Encoding](https://www.acmicpc.net/problem/6800) 
   - [소스1](./week-8/6800.cpp)
   - [소스2](./week-8/6800-2.cpp)
-- [문자열 집합](https://www.acmicpc.net/problem/14425) - [소스](./week-7/14425-3.cpp)
-
+  
 ## 2021-07-14
 ### 6주차 이월 문제 풀기
-- [전화번호 목록](https://www.acmicpc.net/problem/17940) 
+- [지하철](https://www.acmicpc.net/problem/17940) 
   - [소스1](week-6/17940.cpp)
+  - [소스2](week-6/17940-2.cpp)
 
 ## 2021-07-15
 ### 6주차 이월 문제 풀기
@@ -199,3 +202,10 @@ Algorithm-Lesson
 ### 6주차 이월 문제 풀기
 - [징검다리 달리기 2](https://www.acmicpc.net/problem/1810) - [소스](week-6/1810.cpp)
 - [타임머신](https://www.acmicpc.net/problem/11657) - [소스](week-6/11657.cpp)
+
+## 2021-07-17
+### 6주차 이월 문제 풀기
+- [타임머신](https://www.acmicpc.net/problem/1865) - [소스](week-6/1865.cpp)
+
+### 8주차 문제 풀기
+- [두 수 XOR](https://www.acmicpc.net/problem/13505) - [소스](week-8/13505.cpp)
