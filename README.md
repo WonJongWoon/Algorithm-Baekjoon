@@ -190,9 +190,7 @@ Algorithm-Lesson
   
 ## 2021-07-14
 ### 6주차 이월 문제 풀기
-- [지하철](https://www.acmicpc.net/problem/17940) 
-  - [소스1](week-6/17940.cpp)
-  - [소스2](week-6/17940-2.cpp)
+- [지하철](https://www.acmicpc.net/problem/17940) - [소스1](week-6/17940.cpp)
 
 ## 2021-07-15
 ### 6주차 이월 문제 풀기
@@ -209,3 +207,7 @@ Algorithm-Lesson
 
 ### 8주차 문제 풀기
 - [두 수 XOR](https://www.acmicpc.net/problem/13505) - [소스](week-8/13505.cpp)
+
+## 2021-07-18
+### 6주차 이월 문제 풀기
+- [지하철](https://www.acmicpc.net/problem/17940) - [소스2](week-6/17940-2.cpp)
