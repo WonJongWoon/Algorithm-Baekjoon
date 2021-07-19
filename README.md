@@ -206,8 +206,13 @@ Algorithm-Lesson
 - [타임머신](https://www.acmicpc.net/problem/1865) - [소스](week-6/1865.cpp)
 
 ### 8주차 문제 풀기
-- [두 수 XOR](https://www.acmicpc.net/problem/13505) - [소스](week-8/13505.cpp)
+- [두 수 XOR](https://www.acmicpc.net/problem/13505) - [소스1](week-8/13505.cpp)
 
 ## 2021-07-18
 ### 6주차 이월 문제 풀기
 - [지하철](https://www.acmicpc.net/problem/17940) - [소스2](week-6/17940-2.cpp)
+
+## 2021-07-19
+### 8주차 이월 문제 풀기
+- [XOR 합](https://www.acmicpc.net/problem/13504) - [소스](week-8/13504.cpp)
+- [두 수 XOR](https://www.acmicpc.net/problem/13505) - [소스2](week-8/13505-2.cpp)

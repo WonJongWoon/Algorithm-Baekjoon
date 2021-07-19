@@ -5,8 +5,6 @@
 
 #include <bits/stdc++.h>
 
-#include <utility>
-
 using namespace std;
 
 const int SIZE = 100000+2;
