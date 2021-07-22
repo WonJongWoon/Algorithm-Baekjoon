@@ -220,3 +220,7 @@ Algorithm-Lesson
 ## 2021-07-20
 ### 9주차 문제 풀기
 - [트리 순회](https://www.acmicpc.net/problem/1991) - [소스](week-9/1991.cpp)
+
+## 2021-07-22
+### 9주차 문제 풀기
+- [트리의 순회](https://www.acmicpc.net/problem/2263) - [소스](week-9/2263.cpp)
