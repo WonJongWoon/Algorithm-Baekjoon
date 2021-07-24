@@ -228,3 +228,8 @@ Algorithm-Lesson
 ## 2021-07-23
 ### 9주차 문제 풀기
 - [트리](https://www.acmicpc.net/problem/1068) - [소스](week-9/1068.cpp)
+
+## 2021-07-24
+### 9주차 문제 풀기
+- [트리의 지름](https://www.acmicpc.net/problem/1167) - [소스](week-9/1167.cpp)
+- [트리의 지름](https://www.acmicpc.net/problem/1967) - [소스](week-9/1967.cpp)
