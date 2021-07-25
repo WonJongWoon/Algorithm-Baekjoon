@@ -233,3 +233,7 @@ Algorithm-Lesson
 ### 9주차 문제 풀기
 - [트리의 지름](https://www.acmicpc.net/problem/1167) - [소스](week-9/1167.cpp)
 - [트리의 지름](https://www.acmicpc.net/problem/1967) - [소스](week-9/1967.cpp)
+
+## 2021-07-25
+### 10주차 문제 풀기
+- [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) - [소스](week-10/20366.cpp)
