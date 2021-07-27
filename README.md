@@ -241,3 +241,7 @@ Algorithm-Lesson
 ## 2021-07-26
 ### 10주차 문제 풀기
 - [트리의 지름](https://www.acmicpc.net/problem/1967) - [소스2](week-10/1967-2.cpp)
+
+## 2021-07-27
+### 10주차 문제 풀기
+- [주사위 게임](https://www.acmicpc.net/problem/13250) - [소스2](week-10/13250.cpp)
