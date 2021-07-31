@@ -248,4 +248,10 @@ Algorithm-Lesson
 
 ## 2021-07-30
 ### 10주차 문제 풀기
-- [2의 멱수의 합](https://www.acmicpc.net/problem/2410) - [소스2](week-10/2410.cpp)
+- [2의 멱수의 합](https://www.acmicpc.net/problem/2410) - [소스1](week-10/2410.cpp)
+
+## 2021-07-31
+### 10주차 문제 풀기
+- [호텔](https://www.acmicpc.net/problem/1106) 
+  - [소스1](week-10/1106.cpp)
+  - [소스2](week-10/1106-2.cpp)

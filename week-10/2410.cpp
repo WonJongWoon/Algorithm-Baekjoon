@@ -1,5 +1,5 @@
 //
-// Created by JongWoon on 2021-07-30.
+// Created by JongWoon on 2021-07-31.
 //
 // Link : https://www.acmicpc.net/problem/2410
 
@@ -7,15 +7,15 @@
 
 using namespace std;
 
-const int SIZE = int(1e6+2);
-const int MOD = int(1e9);
-
-int dp[SIZE][20];
-int N;
-
 inline int sum(int x, int y, int mod) { return (x+(long long)y) % mod; }
 inline int mul(int x, int y, int mod) { return (x*(long long)y) % mod; }
 inline int sub(int x, int y, int mod) { return sum(x, mod-y, mod); }
+
+const int SIZE = int(1e6) + 2;
+const int MOD = int(1e9);
+
+int N;
+int dp[SIZE][20];
 
 int pow2(int k) {
     return (1 << k);
@@ -27,20 +27,24 @@ int main() {
 
     cin >> N;
 
-    for(int i = 0; i < 20; i++) dp[0][i] = 1;
+    for(int i = 0; i <= N; i++) dp[i][0] = 1;
 
     for(int i = 1; i <= N; i++) {
-        dp[i][0] = 1;
-        for(int j = 1; j < 20; j++) {
-            if (i >= pow2(j)) {
-                dp[i][j] = sum(dp[i][j-1], dp[i - pow2(j)][j], MOD);
+        for(int k = 1; k < 20; k++) {
+            if (i >= pow2(k)) {
+                for(int j = 0; j <= k; j++) {
+                    dp[i][k] = sum(dp[i][k], dp[i-pow2(k)][j], MOD);
+                }
             } else {
-                dp[i][j] = dp[i][j-1];
+                dp[i][k] = 0;
             }
         }
     }
 
-    cout << dp[N][19];
-
+    int ans = 0;
+    for(int k = 0; k < 20; k++) {
+        ans = sum(ans, dp[N][k], MOD);
+    }
+    cout << ans;
     return 0;
 }
