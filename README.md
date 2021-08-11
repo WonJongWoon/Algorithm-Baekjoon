@@ -1,5 +1,5 @@
-# Algorithm-Lesson
-Algorithm-Lesson
+# Algorithm
+Algorithm
 
 ## 2021-05-15
 ### 백준 테스트 문제 풀기
