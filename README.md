@@ -271,3 +271,7 @@ Algorithm-Baekjoon
 - [N 과 M (2)](https://www.acmicpc.net/problem/15650) - [소스](week-11/15650.cpp)
 - [N 과 M (3)](https://www.acmicpc.net/problem/15651) - [소스](week-11/15651.cpp)
 - [N 과 M (4)](https://www.acmicpc.net/problem/15652) - [소스](week-11/15652.cpp)
+
+## 2021-08-22
+### 11주차 문제 풀기
+- [우수 마을](https://www.acmicpc.net/problem/1949) - [소스](week-11/1949.cpp)
